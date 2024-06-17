@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\bin\Debug\QUANLYKHACHHANG.mdf
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\bin\Debug\QUANLYKHACHHANG_log.ldf
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\bin\Debug\QuanlyKhachHang1.exe.config
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\bin\Debug\QuanlyKhachHang1.exe
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\bin\Debug\QuanlyKhachHang1.pdb
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.frm_DanhSachKhachHang.resources
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.frm_Main.resources
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.exe
+C:\Users\ADMIN\source\repos\QuanlyKhachHang1\QuanlyKhachHang1\obj\Debug\QuanlyKhachHang1.pdb
